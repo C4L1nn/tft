@@ -1,0 +1,816 @@
+{
+    "meta_builds": {},
+    "comps": {
+        "default": "assets/icons/default.png",
+        "bruiser": "assets/icons/bruiser.png",
+        "noxus": "assets/icons/noxus.png",
+        "demacia": "assets/icons/demacia.png",
+        "mage": "assets/icons/mage.png"
+    },
+    "scraped_at": "2025-12-03 11:52:24",
+    "comp_details": [
+        {
+            "name": "SBilgewater GunslingersFast 8",
+            "units": [
+                "Nautilus",
+                "Miss Fortune",
+                "Infinity Edge",
+                "Spear of Shojin",
+                "Taric",
+                "Wukong",
+                "Lucian & Senna",
+                "Ornn",
+                "Shyvana",
+                "Tahm Kench",
+                "Gargoyle Stoneplate",
+                "Warmog's Armor",
+                "How to Unlock"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "SBruiser CaretakerSlow Roll (6)",
+            "units": [
+                "Illaoi",
+                "Shen",
+                "Bard",
+                "Archangel's Staff",
+                "Jeweled Gauntlet",
+                "Spear of Shojin",
+                "How to Unlock",
+                "Aphelios",
+                "Sion",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Spirit Visage",
+                "Kobuko & Yuumi",
+                "Wukong",
+                "Volibear"
+            ],
+            "icon_key": "bruiser"
+        },
+        {
+            "name": "SFreljord QuickstrikersFast 8",
+            "units": [
+                "Ashe",
+                "Jinx",
+                "Loris",
+                "Sejuani",
+                "Braum",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "Warwick",
+                "Bloodthirster",
+                "Sterak's Gage",
+                "Titan's Resolve",
+                "How to Unlock",
+                "Lucian & Senna"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "SFreljord WardensFast 8",
+            "units": [
+                "Ashe",
+                "Loris",
+                "Sejuani",
+                "Braum",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "Ornn",
+                "Kindred",
+                "Lucian & Senna",
+                "Giant Slayer",
+                "Infinity Edge",
+                "Spear of Shojin"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "SIonian QuickstrikersFast 8",
+            "units": [
+                "Shen",
+                "Xin Zhao",
+                "Ahri",
+                "Kennen",
+                "How to Unlock",
+                "Wukong",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "Yunara",
+                "Guinsoo's Rageblade",
+                "Infinity Edge",
+                "Kraken's Fury",
+                "Kindred",
+                "Sett"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "SNoxus BilgewaterSlow Roll (7)",
+            "units": [
+                "Briar",
+                "Twisted Fate",
+                "Draven",
+                "Guinsoo's Rageblade",
+                "Infinity Edge",
+                "Kraken's Fury",
+                "Gangplank",
+                "Hand of Justice",
+                "Quicksilver",
+                "Striker's Flail",
+                "Nautilus",
+                "Ambessa",
+                "Swain",
+                "Mel",
+                "How to Unlock"
+            ],
+            "icon_key": "noxus"
+        },
+        {
+            "name": "SNoxus DisruptorsFast 8",
+            "units": [
+                "Neeko",
+                "Ambessa",
+                "Seraphine",
+                "Swain",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "Fiddlesticks",
+                "Mel",
+                "Adaptive Helm",
+                "Jeweled Gauntlet",
+                "How to Unlock",
+                "Shyvana"
+            ],
+            "icon_key": "noxus"
+        },
+        {
+            "name": "SRegion QuickstrikersFast 8",
+            "units": [
+                "Ashe",
+                "Kennen",
+                "How to Unlock",
+                "Kobuko & Yuumi",
+                "Sejuani",
+                "Lissandra",
+                "Taric",
+                "Wukong",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "Yunara",
+                "Guinsoo's Rageblade",
+                "Infinity Edge",
+                "Kraken's Fury"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "AArcanistsFast 8",
+            "units": [
+                "Neeko",
+                "Swain",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "Lux",
+                "Annie",
+                "Blue Buff",
+                "Spear of Shojin",
+                "Void Staff",
+                "Fiddlesticks",
+                "Shyvana",
+                "Tibbers",
+                "Sylas",
+                "How to Unlock"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "ABilgewaterFast 8",
+            "units": [
+                "Illaoi",
+                "Graves",
+                "How to Unlock",
+                "Gangplank",
+                "Nautilus",
+                "Fizz",
+                "Hand of Justice",
+                "Jeweled Gauntlet",
+                "Miss Fortune",
+                "Infinity Edge",
+                "Spear of Shojin",
+                "Ornn",
+                "Tahm Kench",
+                "Gargoyle Stoneplate",
+                "Warmog's Armor"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "ADemacian ArcanistsFast 8",
+            "units": [
+                "Jarvan IV",
+                "Neeko",
+                "Poppy",
+                "How to Unlock",
+                "Vayne",
+                "Garen",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "Lux",
+                "Jeweled Gauntlet",
+                "Spear of Shojin",
+                "Striker's Flail",
+                "Swain",
+                "Sylas"
+            ],
+            "icon_key": "demacia"
+        },
+        {
+            "name": "ADemacian LongshotsStandard",
+            "units": [
+                "Jarvan IV",
+                "Xin Zhao",
+                "Poppy",
+                "How to Unlock",
+                "Vayne",
+                "Guinsoo's Rageblade",
+                "Infinity Edge",
+                "Kraken's Fury",
+                "Garen",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "Lux",
+                "Kaisa",
+                "Sylas"
+            ],
+            "icon_key": "demacia"
+        },
+        {
+            "name": "AFreljord InvokersFast 8",
+            "units": [
+                "Anivia",
+                "Kobuko & Yuumi",
+                "How to Unlock",
+                "Sejuani",
+                "Braum",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "Lissandra",
+                "Blue Buff",
+                "Jeweled Gauntlet",
+                "Spear of Shojin",
+                "Ornn",
+                "Volibear",
+                "Zilean"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "AIonian SlayersSlow Roll (6)",
+            "units": [
+                "Shen",
+                "Aphelios",
+                "Yasuo",
+                "Edge of Night",
+                "Hand of Justice",
+                "Infinity Edge",
+                "Belveth",
+                "Wukong",
+                "Yone",
+                "Bloodthirster",
+                "Guinsoo's Rageblade",
+                "Titan's Resolve",
+                "How to Unlock",
+                "Aatrox",
+                "Sett"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "AIxtal CaretakerSlow Roll (6)",
+            "units": [
+                "Orianna",
+                "How to Unlock",
+                "Bard",
+                "Archangel's Staff",
+                "Jeweled Gauntlet",
+                "Nashor's Tooth",
+                "Neeko",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "Milio",
+                "Nidalee",
+                "Skarner",
+                "Brock"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "AIxtal InvokersFast 8",
+            "units": [
+                "Kobuko & Yuumi",
+                "How to Unlock",
+                "Milio",
+                "Morellonomicon",
+                "Spear of Shojin",
+                "Void Staff",
+                "Braum",
+                "Lissandra",
+                "Skarner",
+                "Volibear",
+                "Zilean",
+                "Brock",
+                "Bloodthirster",
+                "Sterak's Gage",
+                "Titan's Resolve"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "AJuggernaut DisruptorsSlow Roll (6)",
+            "units": [
+                "Neeko",
+                "Chogath",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "Ekko",
+                "Bloodthirster",
+                "Hand of Justice",
+                "Titan's Resolve",
+                "Seraphine",
+                "Singed",
+                "How to Unlock",
+                "Swain",
+                "Shyvana"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "ANoxusFast 8",
+            "units": [
+                "Sion",
+                "Kobuko & Yuumi",
+                "How to Unlock",
+                "Leblanc",
+                "Ambessa",
+                "Bloodthirster",
+                "Sterak's Gage",
+                "Titan's Resolve",
+                "Swain",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "Azir",
+                "Fiddlesticks",
+                "Mel"
+            ],
+            "icon_key": "noxus"
+        },
+        {
+            "name": "ANoxus RerollSlow Roll (7)",
+            "units": [
+                "Neeko",
+                "Darius",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "How to Unlock",
+                "Draven",
+                "Guinsoo's Rageblade",
+                "Infinity Edge",
+                "Kraken's Fury",
+                "Ambessa",
+                "Swain",
+                "Taric",
+                "Kindred",
+                "Mel"
+            ],
+            "icon_key": "noxus"
+        },
+        {
+            "name": "APiltover GunslingersFast 8",
+            "units": [
+                "Caitlyn",
+                "Orianna",
+                "How to Unlock",
+                "Loris",
+                "Seraphine",
+                "Jeweled Gauntlet",
+                "Nashor's Tooth",
+                "Spear of Shojin",
+                "Lucian & Senna",
+                "Ornn",
+                "T-Hex",
+                "Infinity Edge",
+                "Quicksilver",
+                "Striker's Flail"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "ARune MageFast 8",
+            "units": [
+                "Poppy",
+                "How to Unlock",
+                "Xin Zhao",
+                "Kennen",
+                "Garen",
+                "Nasus",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "Taric",
+                "Sett",
+                "Azir",
+                "Ryze",
+                "Morellonomicon",
+                "Spear of Shojin",
+                "Void Staff"
+            ],
+            "icon_key": "mage"
+        },
+        {
+            "name": "AShadow Isle WardensFast 8",
+            "units": [
+                "Yorick",
+                "How to Unlock",
+                "Gwen",
+                "Loris",
+                "Kalista",
+                "Infinity Edge",
+                "Spear of Shojin",
+                "Striker's Flail",
+                "Seraphine",
+                "Fiddlesticks",
+                "Ornn",
+                "Thresh",
+                "Bloodthirster",
+                "Morellonomicon",
+                "Void Staff"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "ASlayersFast 8",
+            "units": [
+                "Briar",
+                "RekSai",
+                "Gangplank",
+                "Ambessa",
+                "Belveth",
+                "Giant Slayer",
+                "Kraken's Fury",
+                "Quicksilver",
+                "Swain",
+                "Aatrox",
+                "Bloodthirster",
+                "Hand of Justice",
+                "Titan's Resolve",
+                "How to Unlock",
+                "Fiddlesticks"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "ATargonFast 8",
+            "units": [
+                "Anivia",
+                "Leona",
+                "Zoe",
+                "Braum",
+                "Diana",
+                "How to Unlock",
+                "Taric",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "Lissandra",
+                "Aurelion Sol",
+                "Guinsoo's Rageblade",
+                "Spear of Shojin"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "AVanquisher SlayersSlow Roll (7)",
+            "units": [
+                "Briar",
+                "RekSai",
+                "Gangplank",
+                "Hand of Justice",
+                "Quicksilver",
+                "Striker's Flail",
+                "Ambessa",
+                "Belveth",
+                "Swain",
+                "Aatrox",
+                "Bloodthirster",
+                "Titan's Resolve",
+                "How to Unlock",
+                "Fiddlesticks"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "AVoidFast 8",
+            "units": [
+                "Kogmaw",
+                "Chogath",
+                "Malzahar",
+                "Belveth",
+                "Kaisa",
+                "Guinsoo's Rageblade",
+                "Jeweled Gauntlet",
+                "Void Staff",
+                "How to Unlock",
+                "Rift Herald",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "Swain",
+                "Volibear"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "AYordle ArcanistsStandard",
+            "units": [
+                "Lulu",
+                "Rumble",
+                "Poppy",
+                "How to Unlock",
+                "Teemo",
+                "Kobuko & Yuumi",
+                "Kennen",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "Fizz",
+                "Veigar",
+                "Blue Buff",
+                "Rabadon's Deathcap"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "AZaun DisruptorsStandard",
+            "units": [
+                "Neeko",
+                "Dr Mundo",
+                "Malzahar",
+                "Jeweled Gauntlet",
+                "Nashor's Tooth",
+                "Spear of Shojin",
+                "Rift Herald",
+                "How to Unlock",
+                "Seraphine",
+                "Singed",
+                "Bloodthirster",
+                "Morellonomicon",
+                "Void Staff",
+                "Swain"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "AZaun JuggernautsFast 8",
+            "units": [
+                "Blitzcrank",
+                "Chogath",
+                "Neeko",
+                "Nautilus",
+                "Singed",
+                "Archangel's Staff",
+                "Bloodthirster",
+                "Morellonomicon",
+                "How to Unlock",
+                "Swain",
+                "Gargoyle Stoneplate",
+                "Spirit Visage",
+                "Warmog's Armor",
+                "Shyvana"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "AArtillery BarrageSlow Roll (5)Augment",
+            "units": [
+                "Jarvan IV",
+                "Rumble",
+                "Giant Slayer",
+                "Guinsoo's Rageblade",
+                "Jeweled Gauntlet",
+                "Neeko",
+                "Poppy",
+                "How to Unlock",
+                "Kennen",
+                "Sejuani",
+                "Garen",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "Shyvana"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "ALeap of FaithSlow Roll (5)Augment",
+            "units": [
+                "Illaoi",
+                "Bloodthirster",
+                "Sterak's Gage",
+                "Titan's Resolve",
+                "Kobuko & Yuumi",
+                "How to Unlock",
+                "Malzahar",
+                "Rift Herald",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "Wukong",
+                "Azir",
+                "Tahm Kench",
+                "Volibear"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "ARuined KingSlow Roll (5)Augment",
+            "units": [
+                "Viego",
+                "Bloodthirster",
+                "Edge of Night",
+                "Titan's Resolve",
+                "Yorick",
+                "How to Unlock",
+                "Gwen",
+                "Kalista",
+                "Infinity Edge",
+                "Spear of Shojin",
+                "Striker's Flail",
+                "Kindred",
+                "Fiddlesticks",
+                "Ornn",
+                "Thresh"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "ATrials of TwilightSlow Roll (6)Augment",
+            "units": [
+                "Shen",
+                "Xin Zhao",
+                "Bloodthirster",
+                "Sterak's Gage",
+                "Titan's Resolve",
+                "Braum",
+                "Wukong",
+                "Yunara",
+                "Guinsoo's Rageblade",
+                "Infinity Edge",
+                "Kraken's Fury",
+                "Kindred",
+                "Ornn",
+                "Sett",
+                "How to Unlock"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "BBilgewater RerollSlow Roll (6)",
+            "units": [
+                "Illaoi",
+                "Graves",
+                "Bloodthirster",
+                "Sterak's Gage",
+                "Titan's Resolve",
+                "How to Unlock",
+                "Twisted Fate",
+                "Giant Slayer",
+                "Guinsoo's Rageblade",
+                "Jeweled Gauntlet",
+                "Nautilus",
+                "Fizz",
+                "Miss Fortune",
+                "Kindred",
+                "Tahm Kench"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "BFreljord RerollSlow Roll (6)",
+            "units": [
+                "Ashe",
+                "Guinsoo's Rageblade",
+                "Infinity Edge",
+                "Kraken's Fury",
+                "Tryndamere",
+                "Bloodthirster",
+                "Titan's Resolve",
+                "How to Unlock",
+                "Sejuani",
+                "Braum",
+                "Aatrox",
+                "Kindred",
+                "Ornn",
+                "Volibear"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "BIonian ArcanistsSlow Roll (7)",
+            "units": [
+                "Lulu",
+                "Shen",
+                "Neeko",
+                "Ahri",
+                "Blue Buff",
+                "Jeweled Gauntlet",
+                "Nashor's Tooth",
+                "Kennen",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "How to Unlock",
+                "Swain",
+                "Wukong",
+                "Sett"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "BIxtal HuntressFast 8",
+            "units": [
+                "Neeko",
+                "Milio",
+                "Nidalee",
+                "Hand of Justice",
+                "Jeweled Gauntlet",
+                "Striker's Flail",
+                "How to Unlock",
+                "Skarner",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "Annie",
+                "Tibbers",
+                "Brock",
+                "Sylas"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "BYordle CaretakerSlow Roll (6)",
+            "units": [
+                "Lulu",
+                "Rumble",
+                "Bard",
+                "Archangel's Staff",
+                "Jeweled Gauntlet",
+                "Spear of Shojin",
+                "How to Unlock",
+                "Poppy",
+                "Gargoyle Stoneplate",
+                "Sunfire Cape",
+                "Warmog's Armor",
+                "Teemo",
+                "Tristana",
+                "Kennen",
+                "Swain"
+            ],
+            "icon_key": "default"
+        },
+        {
+            "name": "BZaunStandard",
+            "units": [
+                "Blitzcrank",
+                "Jinx",
+                "Guinsoo's Rageblade",
+                "Infinity Edge",
+                "Kraken's Fury",
+                "Singed",
+                "How to Unlock",
+                "Taric",
+                "Warwick",
+                "Bloodthirster",
+                "Sterak's Gage",
+                "Titan's Resolve",
+                "Kindred",
+                "Lucian & Senna"
+            ],
+            "icon_key": "default"
+        }
+    ]
+}
