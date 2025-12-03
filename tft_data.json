@@ -1,5 +1,118 @@
 {
-    "meta_builds": {},
+    "items": {
+        "1": "B.F. Sword",
+        "2": "Recurve Bow",
+        "3": "Needlessly Large Rod",
+        "4": "Tear of the Goddess",
+        "5": "Chain Vest",
+        "6": "Giant's Belt",
+        "7": "Sparring Gloves",
+        "8": "Spatula",
+        "9": "Force of Nature",
+        "11": "Deathblade",
+        "12": "Giant Slayer",
+        "13": "Hextech Gunblade",
+        "14": "Spear of Shojin",
+        "15": "Edge of Night",
+        "16": "Sterak's Gage",
+        "17": "Infinity Edge",
+        "19": "Paradox",
+        "22": "Guinsoo's Rageblade",
+        "23": "Archangel's Staff",
+        "24": "Statikk Shiv",
+        "25": "Crownguard",
+        "26": "Nashor's Tooth",
+        "27": "Jeweled Gauntlet",
+        "33": "Rabadon's Deathcap",
+        "34": "Blue Buff",
+        "35": "Protector's Vow",
+        "36": "Morellonomicon",
+        "37": "Ionic Spark",
+        "44": "Adaptive Helm",
+        "45": "Bramble Vest",
+        "46": "Sunfire Cape",
+        "47": "Steadfast Heart",
+        "55": "Gargoyle Stoneplate",
+        "56": "Warmog's Armor",
+        "57": "Evenshroud",
+        "66": "Dragon's Claw",
+        "67": "QuickSilver",
+        "77": "Thief's Gloves",
+        "88": "Tactician's Crown",
+        "99": "Red Buff"
+    },
+    "meta_builds": {
+        "Jinx": [
+            "Guinsoo's Rageblade",
+            "Infinity Edge",
+            "Last Whisper"
+        ],
+        "Sevika": [
+            "Bloodthirster",
+            "Titan's Resolve",
+            "Sterak's Gage"
+        ],
+        "Caitlyn": [
+            "Shojin's Spear",
+            "Infinity Edge",
+            "Red Buff"
+        ],
+        "Ambessa": [
+            "Bloodthirster",
+            "Titan's Resolve",
+            "Edge of Night"
+        ],
+        "Vi": [
+            "Bloodthirster",
+            "Titan's Resolve",
+            "Sterak's Gage"
+        ],
+        "Heimerdinger": [
+            "Shojin's Spear",
+            "Archangel's Staff",
+            "Jeweled Gauntlet"
+        ],
+        "Illaoi": [
+            "Warmog's Armor",
+            "Bramble Vest",
+            "Dragon's Claw"
+        ],
+        "Silco": [
+            "Shojin's Spear",
+            "Morellonomicon",
+            "Nashor's Tooth"
+        ],
+        "Ekko": [
+            "Ionic Spark",
+            "Sunfire Cape",
+            "Crownguard"
+        ],
+        "Garen": [
+            "Bloodthirster",
+            "Titan's Resolve",
+            "Sterak's Gage"
+        ],
+        "Lux": [
+            "Blue Buff",
+            "Jeweled Gauntlet",
+            "Rabadon's Deathcap"
+        ],
+        "Ashe": [
+            "Guinsoo's Rageblade",
+            "Last Whisper",
+            "Infinity Edge"
+        ],
+        "LeBlanc": [
+            "Blue Buff",
+            "Jeweled Gauntlet",
+            "Rabadon's Deathcap"
+        ],
+        "Vander": [
+            "Warmog's Armor",
+            "Gargoyle Stoneplate",
+            "Dragon's Claw"
+        ]
+    },
     "comps": {
         "default": "assets/icons/default.png",
         "bruiser": "assets/icons/bruiser.png",
@@ -7,24 +120,18 @@
         "demacia": "assets/icons/demacia.png",
         "mage": "assets/icons/mage.png"
     },
-    "scraped_at": "2025-12-03 11:52:24",
     "comp_details": [
         {
             "name": "SBilgewater GunslingersFast 8",
             "units": [
                 "Nautilus",
                 "Miss Fortune",
-                "Infinity Edge",
-                "Spear of Shojin",
                 "Taric",
                 "Wukong",
                 "Lucian & Senna",
                 "Ornn",
                 "Shyvana",
-                "Tahm Kench",
-                "Gargoyle Stoneplate",
-                "Warmog's Armor",
-                "How to Unlock"
+                "Tahm Kench"
             ],
             "icon_key": "default"
         },
@@ -34,14 +141,8 @@
                 "Illaoi",
                 "Shen",
                 "Bard",
-                "Archangel's Staff",
-                "Jeweled Gauntlet",
-                "Spear of Shojin",
-                "How to Unlock",
                 "Aphelios",
                 "Sion",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
                 "Spirit Visage",
                 "Kobuko & Yuumi",
                 "Wukong",
@@ -57,14 +158,9 @@
                 "Loris",
                 "Sejuani",
                 "Braum",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
                 "Warwick",
                 "Bloodthirster",
-                "Sterak's Gage",
                 "Titan's Resolve",
-                "How to Unlock",
                 "Lucian & Senna"
             ],
             "icon_key": "default"
@@ -76,15 +172,9 @@
                 "Loris",
                 "Sejuani",
                 "Braum",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
                 "Ornn",
                 "Kindred",
-                "Lucian & Senna",
-                "Giant Slayer",
-                "Infinity Edge",
-                "Spear of Shojin"
+                "Lucian & Senna"
             ],
             "icon_key": "default"
         },
@@ -95,14 +185,8 @@
                 "Xin Zhao",
                 "Ahri",
                 "Kennen",
-                "How to Unlock",
                 "Wukong",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
                 "Yunara",
-                "Guinsoo's Rageblade",
-                "Infinity Edge",
                 "Kraken's Fury",
                 "Kindred",
                 "Sett"
@@ -115,8 +199,6 @@
                 "Briar",
                 "Twisted Fate",
                 "Draven",
-                "Guinsoo's Rageblade",
-                "Infinity Edge",
                 "Kraken's Fury",
                 "Gangplank",
                 "Hand of Justice",
@@ -125,8 +207,7 @@
                 "Nautilus",
                 "Ambessa",
                 "Swain",
-                "Mel",
-                "How to Unlock"
+                "Mel"
             ],
             "icon_key": "noxus"
         },
@@ -137,14 +218,8 @@
                 "Ambessa",
                 "Seraphine",
                 "Swain",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
                 "Fiddlesticks",
                 "Mel",
-                "Adaptive Helm",
-                "Jeweled Gauntlet",
-                "How to Unlock",
                 "Shyvana"
             ],
             "icon_key": "noxus"
@@ -154,18 +229,12 @@
             "units": [
                 "Ashe",
                 "Kennen",
-                "How to Unlock",
                 "Kobuko & Yuumi",
                 "Sejuani",
                 "Lissandra",
                 "Taric",
                 "Wukong",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
                 "Yunara",
-                "Guinsoo's Rageblade",
-                "Infinity Edge",
                 "Kraken's Fury"
             ],
             "icon_key": "default"
@@ -175,19 +244,13 @@
             "units": [
                 "Neeko",
                 "Swain",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
                 "Lux",
                 "Annie",
-                "Blue Buff",
-                "Spear of Shojin",
                 "Void Staff",
                 "Fiddlesticks",
                 "Shyvana",
                 "Tibbers",
-                "Sylas",
-                "How to Unlock"
+                "Sylas"
             ],
             "icon_key": "default"
         },
@@ -196,19 +259,13 @@
             "units": [
                 "Illaoi",
                 "Graves",
-                "How to Unlock",
                 "Gangplank",
                 "Nautilus",
                 "Fizz",
                 "Hand of Justice",
-                "Jeweled Gauntlet",
                 "Miss Fortune",
-                "Infinity Edge",
-                "Spear of Shojin",
                 "Ornn",
-                "Tahm Kench",
-                "Gargoyle Stoneplate",
-                "Warmog's Armor"
+                "Tahm Kench"
             ],
             "icon_key": "default"
         },
@@ -218,15 +275,9 @@
                 "Jarvan IV",
                 "Neeko",
                 "Poppy",
-                "How to Unlock",
                 "Vayne",
                 "Garen",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
                 "Lux",
-                "Jeweled Gauntlet",
-                "Spear of Shojin",
                 "Striker's Flail",
                 "Swain",
                 "Sylas"
@@ -239,15 +290,9 @@
                 "Jarvan IV",
                 "Xin Zhao",
                 "Poppy",
-                "How to Unlock",
                 "Vayne",
-                "Guinsoo's Rageblade",
-                "Infinity Edge",
                 "Kraken's Fury",
                 "Garen",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
                 "Lux",
                 "Kaisa",
                 "Sylas"
@@ -259,16 +304,9 @@
             "units": [
                 "Anivia",
                 "Kobuko & Yuumi",
-                "How to Unlock",
                 "Sejuani",
                 "Braum",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
                 "Lissandra",
-                "Blue Buff",
-                "Jeweled Gauntlet",
-                "Spear of Shojin",
                 "Ornn",
                 "Volibear",
                 "Zilean"
@@ -281,16 +319,12 @@
                 "Shen",
                 "Aphelios",
                 "Yasuo",
-                "Edge of Night",
                 "Hand of Justice",
-                "Infinity Edge",
                 "Belveth",
                 "Wukong",
                 "Yone",
                 "Bloodthirster",
-                "Guinsoo's Rageblade",
                 "Titan's Resolve",
-                "How to Unlock",
                 "Aatrox",
                 "Sett"
             ],
@@ -300,15 +334,8 @@
             "name": "AIxtal CaretakerSlow Roll (6)",
             "units": [
                 "Orianna",
-                "How to Unlock",
                 "Bard",
-                "Archangel's Staff",
-                "Jeweled Gauntlet",
-                "Nashor's Tooth",
                 "Neeko",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
                 "Milio",
                 "Nidalee",
                 "Skarner",
@@ -320,10 +347,7 @@
             "name": "AIxtal InvokersFast 8",
             "units": [
                 "Kobuko & Yuumi",
-                "How to Unlock",
                 "Milio",
-                "Morellonomicon",
-                "Spear of Shojin",
                 "Void Staff",
                 "Braum",
                 "Lissandra",
@@ -332,7 +356,6 @@
                 "Zilean",
                 "Brock",
                 "Bloodthirster",
-                "Sterak's Gage",
                 "Titan's Resolve"
             ],
             "icon_key": "default"
@@ -342,16 +365,12 @@
             "units": [
                 "Neeko",
                 "Chogath",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
                 "Ekko",
                 "Bloodthirster",
                 "Hand of Justice",
                 "Titan's Resolve",
                 "Seraphine",
                 "Singed",
-                "How to Unlock",
                 "Swain",
                 "Shyvana"
             ],
@@ -362,16 +381,11 @@
             "units": [
                 "Sion",
                 "Kobuko & Yuumi",
-                "How to Unlock",
                 "Leblanc",
                 "Ambessa",
                 "Bloodthirster",
-                "Sterak's Gage",
                 "Titan's Resolve",
                 "Swain",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
                 "Azir",
                 "Fiddlesticks",
                 "Mel"
@@ -383,13 +397,7 @@
             "units": [
                 "Neeko",
                 "Darius",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
-                "How to Unlock",
                 "Draven",
-                "Guinsoo's Rageblade",
-                "Infinity Edge",
                 "Kraken's Fury",
                 "Ambessa",
                 "Swain",
@@ -404,16 +412,11 @@
             "units": [
                 "Caitlyn",
                 "Orianna",
-                "How to Unlock",
                 "Loris",
                 "Seraphine",
-                "Jeweled Gauntlet",
-                "Nashor's Tooth",
-                "Spear of Shojin",
                 "Lucian & Senna",
                 "Ornn",
                 "T-Hex",
-                "Infinity Edge",
                 "Quicksilver",
                 "Striker's Flail"
             ],
@@ -423,20 +426,14 @@
             "name": "ARune MageFast 8",
             "units": [
                 "Poppy",
-                "How to Unlock",
                 "Xin Zhao",
                 "Kennen",
                 "Garen",
                 "Nasus",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
                 "Taric",
                 "Sett",
                 "Azir",
                 "Ryze",
-                "Morellonomicon",
-                "Spear of Shojin",
                 "Void Staff"
             ],
             "icon_key": "mage"
@@ -445,19 +442,15 @@
             "name": "AShadow Isle WardensFast 8",
             "units": [
                 "Yorick",
-                "How to Unlock",
                 "Gwen",
                 "Loris",
                 "Kalista",
-                "Infinity Edge",
-                "Spear of Shojin",
                 "Striker's Flail",
                 "Seraphine",
                 "Fiddlesticks",
                 "Ornn",
                 "Thresh",
                 "Bloodthirster",
-                "Morellonomicon",
                 "Void Staff"
             ],
             "icon_key": "default"
@@ -470,7 +463,6 @@
                 "Gangplank",
                 "Ambessa",
                 "Belveth",
-                "Giant Slayer",
                 "Kraken's Fury",
                 "Quicksilver",
                 "Swain",
@@ -478,7 +470,6 @@
                 "Bloodthirster",
                 "Hand of Justice",
                 "Titan's Resolve",
-                "How to Unlock",
                 "Fiddlesticks"
             ],
             "icon_key": "default"
@@ -491,15 +482,9 @@
                 "Zoe",
                 "Braum",
                 "Diana",
-                "How to Unlock",
                 "Taric",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
                 "Lissandra",
-                "Aurelion Sol",
-                "Guinsoo's Rageblade",
-                "Spear of Shojin"
+                "Aurelion Sol"
             ],
             "icon_key": "default"
         },
@@ -518,7 +503,6 @@
                 "Aatrox",
                 "Bloodthirster",
                 "Titan's Resolve",
-                "How to Unlock",
                 "Fiddlesticks"
             ],
             "icon_key": "default"
@@ -531,14 +515,8 @@
                 "Malzahar",
                 "Belveth",
                 "Kaisa",
-                "Guinsoo's Rageblade",
-                "Jeweled Gauntlet",
                 "Void Staff",
-                "How to Unlock",
                 "Rift Herald",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
                 "Swain",
                 "Volibear"
             ],
@@ -550,17 +528,11 @@
                 "Lulu",
                 "Rumble",
                 "Poppy",
-                "How to Unlock",
                 "Teemo",
                 "Kobuko & Yuumi",
                 "Kennen",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
                 "Fizz",
-                "Veigar",
-                "Blue Buff",
-                "Rabadon's Deathcap"
+                "Veigar"
             ],
             "icon_key": "default"
         },
@@ -570,15 +542,10 @@
                 "Neeko",
                 "Dr Mundo",
                 "Malzahar",
-                "Jeweled Gauntlet",
-                "Nashor's Tooth",
-                "Spear of Shojin",
                 "Rift Herald",
-                "How to Unlock",
                 "Seraphine",
                 "Singed",
                 "Bloodthirster",
-                "Morellonomicon",
                 "Void Staff",
                 "Swain"
             ],
@@ -592,14 +559,9 @@
                 "Neeko",
                 "Nautilus",
                 "Singed",
-                "Archangel's Staff",
                 "Bloodthirster",
-                "Morellonomicon",
-                "How to Unlock",
                 "Swain",
-                "Gargoyle Stoneplate",
                 "Spirit Visage",
-                "Warmog's Armor",
                 "Shyvana"
             ],
             "icon_key": "default"
@@ -609,18 +571,11 @@
             "units": [
                 "Jarvan IV",
                 "Rumble",
-                "Giant Slayer",
-                "Guinsoo's Rageblade",
-                "Jeweled Gauntlet",
                 "Neeko",
                 "Poppy",
-                "How to Unlock",
                 "Kennen",
                 "Sejuani",
                 "Garen",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
                 "Shyvana"
             ],
             "icon_key": "default"
@@ -630,15 +585,10 @@
             "units": [
                 "Illaoi",
                 "Bloodthirster",
-                "Sterak's Gage",
                 "Titan's Resolve",
                 "Kobuko & Yuumi",
-                "How to Unlock",
                 "Malzahar",
                 "Rift Herald",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
                 "Wukong",
                 "Azir",
                 "Tahm Kench",
@@ -651,14 +601,10 @@
             "units": [
                 "Viego",
                 "Bloodthirster",
-                "Edge of Night",
                 "Titan's Resolve",
                 "Yorick",
-                "How to Unlock",
                 "Gwen",
                 "Kalista",
-                "Infinity Edge",
-                "Spear of Shojin",
                 "Striker's Flail",
                 "Kindred",
                 "Fiddlesticks",
@@ -673,18 +619,14 @@
                 "Shen",
                 "Xin Zhao",
                 "Bloodthirster",
-                "Sterak's Gage",
                 "Titan's Resolve",
                 "Braum",
                 "Wukong",
                 "Yunara",
-                "Guinsoo's Rageblade",
-                "Infinity Edge",
                 "Kraken's Fury",
                 "Kindred",
                 "Ornn",
-                "Sett",
-                "How to Unlock"
+                "Sett"
             ],
             "icon_key": "default"
         },
@@ -694,13 +636,8 @@
                 "Illaoi",
                 "Graves",
                 "Bloodthirster",
-                "Sterak's Gage",
                 "Titan's Resolve",
-                "How to Unlock",
                 "Twisted Fate",
-                "Giant Slayer",
-                "Guinsoo's Rageblade",
-                "Jeweled Gauntlet",
                 "Nautilus",
                 "Fizz",
                 "Miss Fortune",
@@ -713,13 +650,10 @@
             "name": "BFreljord RerollSlow Roll (6)",
             "units": [
                 "Ashe",
-                "Guinsoo's Rageblade",
-                "Infinity Edge",
                 "Kraken's Fury",
                 "Tryndamere",
                 "Bloodthirster",
                 "Titan's Resolve",
-                "How to Unlock",
                 "Sejuani",
                 "Braum",
                 "Aatrox",
@@ -736,14 +670,7 @@
                 "Shen",
                 "Neeko",
                 "Ahri",
-                "Blue Buff",
-                "Jeweled Gauntlet",
-                "Nashor's Tooth",
                 "Kennen",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
-                "How to Unlock",
                 "Swain",
                 "Wukong",
                 "Sett"
@@ -757,13 +684,8 @@
                 "Milio",
                 "Nidalee",
                 "Hand of Justice",
-                "Jeweled Gauntlet",
                 "Striker's Flail",
-                "How to Unlock",
                 "Skarner",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
                 "Annie",
                 "Tibbers",
                 "Brock",
@@ -777,14 +699,7 @@
                 "Lulu",
                 "Rumble",
                 "Bard",
-                "Archangel's Staff",
-                "Jeweled Gauntlet",
-                "Spear of Shojin",
-                "How to Unlock",
                 "Poppy",
-                "Gargoyle Stoneplate",
-                "Sunfire Cape",
-                "Warmog's Armor",
                 "Teemo",
                 "Tristana",
                 "Kennen",
@@ -797,20 +712,17 @@
             "units": [
                 "Blitzcrank",
                 "Jinx",
-                "Guinsoo's Rageblade",
-                "Infinity Edge",
                 "Kraken's Fury",
                 "Singed",
-                "How to Unlock",
                 "Taric",
                 "Warwick",
                 "Bloodthirster",
-                "Sterak's Gage",
                 "Titan's Resolve",
                 "Kindred",
                 "Lucian & Senna"
             ],
             "icon_key": "default"
         }
-    ]
+    ],
+    "last_update": "2025-12-03 12:16:20"
 }
